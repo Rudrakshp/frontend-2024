@@ -1,6 +1,5 @@
 import React from 'react'
 import iiit_logo from '../images/iiit_surat.png'
-import spring from '../images/Spring.png'
 import {Link} from 'react-router-dom'
 import Horizontal from '../components/horrizontal-pipe.svg'
 import new_logo from '../images/new_logo.png'
